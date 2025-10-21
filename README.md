@@ -4,6 +4,10 @@
 
 在线预览（可自行部署）：构建后直接打开 `index.html`，或 `npm run dev` 本地预览。
 
+## 预览截图
+
+![screenshot](./docs/screenshot.png)
+
 ## 功能特性
 - 纯 React + SVG，无第三方图表库
 - 四层能力带：舒适区 / 挑战区 / 近不胜任 / 远不胜任
